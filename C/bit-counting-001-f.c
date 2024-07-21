@@ -34,7 +34,7 @@ return sum;
 }
 size_t countBits(int value)
 {
-   printf("%d",value);
+   printf("test %d",value);
     int bin_num = binaere(value);
     return quersumme(bin_num);
 
